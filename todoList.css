@@ -1,0 +1,10 @@
+.todo_container {
+  margin: 100px auto;
+  widows: 100%;
+  background-color: pink;
+  min-height: 500px;
+  font-size: 30px;
+}
+.completed {
+  text-decoration: line-through;
+}
